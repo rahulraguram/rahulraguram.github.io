@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.apple.com'>Apple, Inc.</a>. # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a research manager at Apple, where I work on the 3D Vision Team. My team and I work on technology that powers features such as Visual Localization for <a href='https://www.apple.com/newsroom/2021/09/apple-maps-introduces-new-ways-to-explore-major-cities-in-3d/'>Maps</a> and <a href='https://appleinsider.com/articles/20/06/26/apples-arkit-4-anchors-3d-reality-into-real-world-maps-locations'>Augmented Reality</a>, <a href='https://www.youtube.com/watch?v=SF37ZQ_ItNY'>detailed 3D city maps</a>, <a href='https://en.wikipedia.org/wiki/Apple_Look_Around'>Look Around</a>, and <a href='https://en.wikipedia.org/wiki/Apple_Maps#Flyover_and_3D_maps'>3D Flyover</a>. We work on a lot of fun (and challenging) problems in large scale 3D mapping, geometry and positioning using a mix of classical geometry and machine learning. If any of this sounds interesting, feel free to <a href="mailto:rraguram@apple.com">get in touch</a>!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I ~~recently~~ a while ago received a PhD from the <a href='https://cs.unc.edu'>Department of Computer Science at UNC Chapel Hill</a>. I worked in the 3D Computer Vision group, advised by <a href='https://cs.unc.edu/person/jan-michael-frahm/'>Jan-Michael Frahm</a> and <a href='https://people.inf.ethz.ch/pomarc/'>Marc Pollefeys</a>. During my PhD, I worked on applications that involved the modeling and understanding of real-world scenes, objects and events. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to UNC, I obtained a Masters degree in <a href='https://ece.engineering.arizona.edu'>Electrial and Computer Engineering</a> from the University of Arizona, where I was a member of the <a href='http://www-spacl.ece.arizona.edu'>Signal Processing and Coding Lab</a>. 
