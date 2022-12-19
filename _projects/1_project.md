@@ -1,17 +1,24 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Robust Estimation
+description: Worked on efficient algorithms for robust estimation in computer vision
+img: assets/img/recon.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/recon.png" title="RECON" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<b>RECON: Scale Adaptive Robust Estimation via Residual Consensus</b>
+Rahul Raguram and Jan-Michael Frahm
+<i>International Conference on Computer Vision (ICCV), 2011 (Oral Presentation).</i>
+[<a href="./papers/0727.pdf">paper (pdf)</a>] &nbsp [<a href="http://www.iccv2011.org/oral_videos/day_3/3-2-2.m4v" target="_blank">presentation video</a>]
+
+In this work, we present a threshold-free robust estimation framework capable of efficiently fitting models to contaminated data. While RANSAC and its many variants have emerged as popular tools for robust estimation, their performance is largely dependent on the availability of a reasonable prior estimate of the inlier threshold. This work builds on the simple observation that models generated from uncontaminated minimal subsets are somehow "consistent" in terms of the behavior of their residuals, while contaminated models exhibit uncorrelated behavior. By leveraging this observation, we then develop a very simple, yet effective algorithm that does not require apriori knowledge of either the scale of the noise, or the fraction of uncontaminated points.
 
     ---
     layout: page
