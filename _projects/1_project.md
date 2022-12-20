@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Robust Estimation
-description: Worked on efficient algorithms for robust estimation in computer vision
+title: RECON
+description: Scale Adaptive Robust Estimation via Residual Consensus
 img: assets/img/recon.png
 importance: 1
-category: grad school
+category: robust estimation
 ---
 
 <div class="row">
