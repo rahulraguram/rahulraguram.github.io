@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iSpy: 
+title: iSpy 
 description: Automatic Reconstruction of Typed Input from Compromising Reflections
 img: assets/img/ispy2.png
 importance: 1

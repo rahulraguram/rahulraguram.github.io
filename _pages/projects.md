@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some things I've worked on in the past, mostly during grad school.
 nav: true
 nav_order: 2
-display_categories: [robust estimation, vision meets security]
+display_categories: [robust estimation, internet photo collections, vision meets security]
 horizontal: false
 ---
 
