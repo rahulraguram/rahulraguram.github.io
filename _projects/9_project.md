@@ -13,9 +13,9 @@ category: scene understanding and reconstruction
     </div>
 </div>
 
-<b>System and method for generating a classifier for semantically segmenting an image</b>
-David Gallup, Rahul Raguram
-<i>Patent: 8958630, 2015</i>
+<b>System and method for generating a classifier for semantically segmenting an image</b><br>
+David Gallup, Rahul Raguram.<br>
+<i>Patent: 8958630</i>, 2015.<br>
 [<a href="https://patents.google.com/patent/US8958630B1/en">Patent</a>] 
 
 Every day, more and more of the Earth's cities and sights are photographed from a variety of digital cameras, viewing positions and angles, weather and illumination conditions. Given the massive growth of datasets of this nature (e.g., Google Street View and Microsoft Bing Maps), we explore the problem of interpreting this imagery using a combination of apperance and geometry cues.

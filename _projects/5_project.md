@@ -14,9 +14,9 @@ category: vision meets security
 </div>
 
 <b>iSpy: Automatic Reconstruction of Typed Input from Compromising Reflections</b><br>
-Rahul Raguram, Andrew White, Dibyendusekhar Goswami, Fabian Monrose and Jan-Michael Frahm
-<i>ACM Conference on Computer and Communications Security (CCS), Oct 2011 (Oral Presentation).</i>
-[<a href="assets/pdf/On_the_Privacy_Risks_of_Virtual_Keyboard.pdf">journal (pdf)</a>] [<a href="assets/pdf/CCS2011.pdf">conference (pdf)</a>] [<a href="http://www.youtube.com/watch?v=ZveUIlFYltk&feature=player_embedded">video</a>]
+Rahul Raguram, Andrew White, Dibyendusekhar Goswami, Fabian Monrose and Jan-Michael Frahm.<br>
+<i>ACM Conference on Computer and Communications Security (CCS) (Oral Presentation)</i>, Oct 2011.<br>
+[<a href="https://rahulraguram.com/assets/pdf/On_the_Privacy_Risks_of_Virtual_Keyboard.pdf">journal (pdf)</a>] [<a href="https://rahulraguram.com/assets/pdf/CCS2011.pdf">conference (pdf)</a>] [<a href="http://www.youtube.com/watch?v=ZveUIlFYltk&feature=player_embedded">video</a>]
 
 <i><b>Press</b></i>: <a href="http://www.engadget.com/2011/11/04/ispy-software-can-read-texts-and-steal-passwords-with-its-little/"   target="_blank">Engadget</a>, <a href="http://gizmodo.com/5856726/ispy-yet-another-reason-to-keep-your-mobile-messaging-tasteful" target="_blank">Gizmodo</a>, <a href="http://www.newscientist.com/article/mg21228365.000-screenspy-program-can-read-texts-and-emails.html" target="_blank">New Scientist</a>, <a href="http://www.physorg.com/news/2011-11-spy-software-smartphone-texting-realtime.html" target="_blank">PhysOrg</a>
 
