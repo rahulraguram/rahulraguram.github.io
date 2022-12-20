@@ -2,7 +2,7 @@
 layout: page
 title: Learning-based Segmentation
 description: Semantic Segmentation of Urban Video Imagery
-img: assets/img/urbanscape.png
+img: assets/img/seg.png
 importance: 1
 category: scene understanding and reconstruction
 ---
