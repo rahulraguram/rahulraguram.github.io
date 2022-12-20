@@ -17,7 +17,7 @@
         - title: Dissertation 
           contents:
             - Efficient Algorithms for Robust Estimation
-            - Developed efficient algorithms for robust estimation, with a focus on problems in 3D computer vision. Worked on large-scale SfM pipelines, including some of the first systems for large / city-scale reconstruction. 
+            - Developed efficient algorithms for robust estimation, with a focus on problems in 3D computer vision. Worked on large-scale SfM pipelines, including some of the first systems for large / city-scale reconstruction from internet photo collections. 
     - title: MS, Electrical and Computer Engineering
       institution: University of Arizona
       year: 2007
@@ -31,15 +31,30 @@
   type: time_table
   contents:
     - title: Research Manager
-      institution: Apple, Inc. 
+      institution: Apple, Inc., Cupertino, CA
       year: 2017-present
       description:
         - Managing a team of engineers as part of the <b>3D Vision Team</b>    
         - We work on technology and algorithms to process large scale 3D datasets and build features that ship to millions of devices
         - Visual localization, slam, SfM, camera calibration, gnss, bundle adjustment, 3D reconstruction
     - title: Software Engineer, Senior Software Engineer
-      institution: Apple, Inc. 
+      institution: Apple, Inc., Cupertino, CA
       year: 2012-2017
       description:
         - Worked on a number of large-scale 3D products, including 3D Flyover. 
         - Bundle adjustment, calibration, slam, 3D reconstruction
+    - title: Intern, Lightfield/Geo Team
+      institution: Google, Inc., Seattle, WA
+      year: 2011
+      description:
+        - Designed and implemented a system for semantic segmentation of urban imagery and 3D point cloud data. The interesting component here was combining image appearance and geometry in a semi-supervised learning framework. 
+    - title: Research Intern
+      institution: Los Alamos National Labs, Los Alamos, NM
+      year: 2010
+      description:
+        - Developed and implemented algorithms for 3D reconstruction and object tracking from high resolution overhead imagery. 
+    - title: Visiting Researcher
+      institution: Center for Machine Perception, Czech Technical University, Prague
+      year: 2010
+      description:
+        - Worked on a next-generation robust estimation framework, in collaboration with researchers at CTU Prague. The system combined recent research efforts at UNC and CTU Prague.
